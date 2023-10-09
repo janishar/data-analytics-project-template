@@ -14,12 +14,10 @@ It is convenient to adopt a good project structure having support of git when st
 7. module finder for code sharing
 
 # About The Author
-I [Janishar Ali](https://janisharali.com) have 10 years of experience in tech industry working for top companies. I enjoy sharing my learnings with the community. You can connect with me here:
+You can connect with me here:
+* [Janishar Ali](https://janisharali.com)
 * [Twitter](https://twitter.com/janisharali)
-* [LinkedIn](https://www.linkedin.com/in/janishar-ali)
-* [Instagram](https://www.instagram.com/janisharali)
-
-[Learn from My YouTube Channel](https://www.youtube.com/@janisharali)
+* [YouTube Channel](https://www.youtube.com/@unusualcode)
 
 ## Recommended Steps:
 
