@@ -15,9 +15,9 @@ It is convenient to adopt a good project structure having support of git when st
 
 # About The Author
 You can connect with me here:
-* [Janishar Ali](https://janisharali.com)
+* [Janishar Ali](https://afteracademy.com/founder/ali)
 * [Twitter](https://twitter.com/janisharali)
-* [YouTube Channel](https://www.youtube.com/@unusualcode)
+* [YouTube Channel](https://www.youtube.com/@afteracad)
 
 ## Recommended Steps:
 
